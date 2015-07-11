@@ -1,0 +1,23 @@
+{
+    "always_show_minimap_viewport": true,
+    "atomic_save": false,
+    "auto_complete": true,
+    "auto_complete_commit_on_tab": true,
+    "auto_upgrade": false,
+    "close_windows_when_empty": true,
+    "debug": false,
+    "draw_white_space": "selection",
+    "enable_tab_scrolling": false,
+    "enable_telemetry": false,
+    "margin": 0,
+    "show_encoding": true,
+    "show_full_path": true,
+    "show_line_endings": true,
+    "submit_usage": false,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "update_check": false,
+    "vintage_ctrl_keys": true,
+    "vintage_start_in_command_mode": true,
+    "vintageous_use_ctrl_keys": true
+}

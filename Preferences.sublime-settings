@@ -15,6 +15,11 @@
     "highlight_modified_tabs": true,
     "margin": 0,
     "overlay_scroll_bars": "system",
+    "rulers":
+    [
+        80,
+        120
+    ],
     "show_encoding": true,
     "show_full_path": true,
     "show_line_endings": true,
@@ -27,5 +32,7 @@
     "use_tab_stops": true,
     "vintage_ctrl_keys": true,
     "vintage_start_in_command_mode": true,
-    "vintageous_use_ctrl_keys": true
+    "vintageous_use_ctrl_keys": true,
+    "word_wrap": "auto",
+    "wrap_width": 81
 }

@@ -15,6 +15,11 @@
     "enable_telemetry": false,
     "highlight_line": true,
     "highlight_modified_tabs": true,
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
     "margin": 0,
     "overlay_scroll_bars": "system",
     "rulers":

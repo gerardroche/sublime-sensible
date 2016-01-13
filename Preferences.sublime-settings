@@ -40,6 +40,6 @@
     "vintage_ctrl_keys": true,
     "vintage_start_in_command_mode": true,
     "vintageous_use_ctrl_keys": true,
-    "word_wrap": "auto",
+    "word_wrap": false,
     "wrap_width": 81
 }

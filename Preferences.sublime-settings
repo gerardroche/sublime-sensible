@@ -40,8 +40,6 @@
     // original file.
     "atomic_save": false,
 
-    "auto_complete": true,
-
     // By default, auto complete will commit the current completion on enter.
     // This setting can be used to make it complete on tab instead.
     // Completing on tab is generally a superior option, as it removes
@@ -90,13 +88,8 @@
     "auto_upgrade": false,
     "debug": false,
     "disable_pyv8_update": true,
-    "draw_white_space": "selection",
     "enable_tab_scrolling": false,
     "highlight_modified_tabs": true,
-    "overlay_scroll_bars": "system",
-    "show_tab_close_buttons": true,
-    "spell_check": false,
     "update_check": false,
-    "use_tab_stops": true,
     "word_wrap": false
 }

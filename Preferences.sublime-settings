@@ -112,6 +112,5 @@
     "auto_upgrade": false,
     "debug": false,
     "disable_pyv8_update": true,
-    "update_check": false,
-    "word_wrap": false
+    "update_check": false
 }

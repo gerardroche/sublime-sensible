@@ -1,18 +1,25 @@
 {
+    // Spacing between the gutter and the text
     "margin": 0,
 
+    // Columns in which to display vertical rulers
     "rulers":
     [
         80,
         120
     ],
 
+    // The number of spaces a tab is considered equal to
     "tab_size": 4,
 
+    // Set to true to insert spaces when tab is pressed
     "translate_tabs_to_spaces": true,
 
+    // Set to a value other than 0 to force wrapping at that column rather than the
+    // window width
     "wrap_width": 81,
 
+    // If enabled, will highlight any line with a caret
     "highlight_line": true,
 
     "caret_style": "wide",
@@ -20,34 +27,63 @@
     "caret_extra_bottom": 3,
 
 
+    // Controls how the indent guides are drawn, valid options are
+    // "draw_normal" and "draw_active". draw_active will draw the indent
+    // guides containing the caret in a different color.
     "indent_guide_options":
     [
         "draw_normal",
         "draw_active"
     ],
 
+    // Save via writing to an alternate file, and then renaming it over the
+    // original file.
     "atomic_save": false,
 
     "auto_complete": true,
 
+    // By default, auto complete will commit the current completion on enter.
+    // This setting can be used to make it complete on tab instead.
+    // Completing on tab is generally a superior option, as it removes
+    // ambiguity between committing the completion and inserting a newline.
     "auto_complete_commit_on_tab": true,
 
+    // Display file encoding in the status bar
     "show_encoding": true,
 
+    // Display line endings in the status bar
     "show_line_endings": true,
 
+    // Set to true to close windows as soon as the last file is closed, unless
+    // there's a folder open within the window.
+    // On OS X, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
     "close_windows_when_empty": true,
 
+    // Show the full path to files in the title bar.
+    // On OS X, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
     "show_full_path": true,
 
     "enable_telemetry": false,
 
     "submit_usage": false,
 
+    // Vintage
+
+    // Enables/disables standard Vi key bindings including the Ctrl modifier
+    // that may override some platform-specific conventions.
+    // On OS X, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
     "vintage_ctrl_keys": true,
 
+    // Whether to enter command mode when opening a file.
     "vintage_start_in_command_mode": true,
 
+    // Vintageous
+
+    // If true, some key bindings prefaced by the CTRL modifier will override default Sublime Text
+    // key bindings.
     "vintageous_use_ctrl_keys": true,
 
     "always_show_minimap_viewport": true,

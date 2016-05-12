@@ -23,6 +23,9 @@
     // window width
     "wrap_width": 81,
 
+    // Word list to use for spell checking
+    "dictionary": "Packages/Language - English/en_GB.dic",
+
     // If enabled, will highlight any line with a caret
     "highlight_line": true,
 

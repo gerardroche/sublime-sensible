@@ -109,8 +109,6 @@
     "vintageous_use_ctrl_keys": true,
 
     "always_show_minimap_viewport": true,
-    "auto_upgrade": false,
     "debug": false,
     "disable_pyv8_update": true,
-    "update_check": false
 }

@@ -112,8 +112,6 @@
     "auto_upgrade": false,
     "debug": false,
     "disable_pyv8_update": true,
-    "enable_tab_scrolling": false,
-    "highlight_modified_tabs": true,
     "update_check": false,
     "word_wrap": false
 }

@@ -152,9 +152,5 @@
     "jsdocs_lower_case_primitives": true,
 
     // If set to true, primitives such as "boolean" and "integer" will be shortened to "bool" and "int".
-    "jsdocs_short_primitives": true,
-
-    "always_show_minimap_viewport": true,
-    "debug": false,
-    "disable_pyv8_update": true,
+    "jsdocs_short_primitives": true
 }

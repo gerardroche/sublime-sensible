@@ -67,6 +67,9 @@
     // Makes tabs with modified files more visible
     "highlight_modified_tabs": true,
 
+    // Allows tabs to scroll left and right, instead of simply shrinking
+    "enable_tab_scrolling": false,
+
     // Display file encoding in the status bar
     "show_encoding": true,
 

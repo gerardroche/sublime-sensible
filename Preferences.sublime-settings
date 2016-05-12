@@ -50,6 +50,10 @@
     // character when saving
     "trim_trailing_white_space_on_save": true,
 
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+    "ensure_newline_at_eof_on_save": true,
+
     // Save via writing to an alternate file, and then renaming it over the
     // original file.
     "atomic_save": false,

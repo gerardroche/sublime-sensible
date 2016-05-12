@@ -64,6 +64,9 @@
     // ambiguity between committing the completion and inserting a newline.
     "auto_complete_commit_on_tab": true,
 
+    // Makes tabs with modified files more visible
+    "highlight_modified_tabs": true,
+
     // Display file encoding in the status bar
     "show_encoding": true,
 

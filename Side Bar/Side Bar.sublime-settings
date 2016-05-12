@@ -1,0 +1,4 @@
+{
+    "close_affected_buffers_when_deleting_even_if_dirty": true,
+    "disabled_menuitem_edit": true
+}

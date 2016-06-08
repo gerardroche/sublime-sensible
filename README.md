@@ -1,8 +1,8 @@
 # gerardroche/sublime-sensible
 
-A plugin for Sublime Text. Inspired by [tpope/vim-sensible](https://github.com/tpope/vim-sensible).
+A plugin for Sublime Text 3.
 
-**Sublime Text 3 only**
+Inspired by [tpope/vim-sensible](https://github.com/tpope/vim-sensible).
 
 ## License
 

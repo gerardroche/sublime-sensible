@@ -91,7 +91,9 @@
 
     "submit_usage": false,
 
-    // Vintage
+    /////////////
+    // Vintage //
+    /////////////
 
     // Enables/disables standard Vi key bindings including the Ctrl modifier
     // that may override some platform-specific conventions.
@@ -102,13 +104,17 @@
     // Whether to enter command mode when opening a file.
     "vintage_start_in_command_mode": true,
 
-    // Vintageous
+    ////////////////
+    // Vintageous //
+    ////////////////
 
     // If true, some key bindings prefaced by the CTRL modifier will override default Sublime Text
     // key bindings.
     "vintageous_use_ctrl_keys": true,
 
-    // DocBlockr
+    ///////////////
+    // DocBlockr //
+    ///////////////
 
     // If true, then pressing enter while in a double-slash comment (like this one)
     // will automatically add two slashes to the next line as well

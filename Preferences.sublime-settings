@@ -80,7 +80,7 @@
     // there's a folder open within the window.
     // On OS X, this value is overridden in the platform specific settings, so
     // you'll need to place this line in your user settings to override it.
-    "close_windows_when_empty": true,
+    //"close_windows_when_empty": true,
 
     // Show the full path to files in the title bar.
     // On OS X, this value is overridden in the platform specific settings, so

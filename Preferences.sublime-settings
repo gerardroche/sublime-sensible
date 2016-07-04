@@ -30,7 +30,7 @@
     "highlight_line": true,
 
     // Valid values are "smooth", "phase", "blink" and "solid".
-    "caret_style": "phase",
+    "caret_style": "blink",
 
     // These settings control the size of the caret
     "caret_extra_top": 1,

@@ -1,18 +1,18 @@
 {
-    // Spacing between the gutter and the text
+    // Spacing between the gutter and the text.
     "margin": 0,
 
-    // Columns in which to display vertical rulers
+    // Columns in which to display vertical rulers.
     "rulers":
     [
         80,
         120
     ],
 
-    // The number of spaces a tab is considered equal to
+    // The number of spaces a tab is considered equal to.
     "tab_size": 4,
 
-    // Set to true to insert spaces when tab is pressed
+    // Set to true to insert spaces when tab is pressed.
     "translate_tabs_to_spaces": true,
 
     // Trims white space added by auto_indent when moving the caret off the
@@ -20,10 +20,10 @@
     "trim_automatic_white_space": true,
 
     // Set to a value other than 0 to force wrapping at that column rather than
-    // the window width
+    // the window width.
     "wrap_width": 81,
 
-    // Word list to use for spell checking
+    // Word list to use for spell checking.
     "dictionary": "Packages/Language - English/en_GB.dic",
 
     // If enabled, will highlight any line with a caret
@@ -32,7 +32,7 @@
     // Valid values are "smooth", "phase", "blink" and "solid".
     "caret_style": "blink",
 
-    // These settings control the size of the caret
+    // These settings control the size of the caret.
     "caret_extra_top": 1,
     "caret_extra_bottom": 1,
     "caret_extra_width": 1,
@@ -47,11 +47,11 @@
     ],
 
     // Set to true to ensure the last line of the file ends in a newline
-    // character when saving
+    // character when saving.
     "trim_trailing_white_space_on_save": true,
 
     // Set to true to ensure the last line of the file ends in a newline
-    // character when saving
+    // character when saving.
     "ensure_newline_at_eof_on_save": true,
 
     // Save via writing to an alternate file, and then renaming it over the
@@ -64,16 +64,16 @@
     // ambiguity between committing the completion and inserting a newline.
     "auto_complete_commit_on_tab": true,
 
-    // Makes tabs with modified files more visible
+    // Makes tabs with modified files more visible.
     "highlight_modified_tabs": true,
 
-    // Allows tabs to scroll left and right, instead of simply shrinking
+    // Allows tabs to scroll left and right, instead of simply shrinking.
     "enable_tab_scrolling": false,
 
-    // Display file encoding in the status bar
+    // Display file encoding in the status bar.
     "show_encoding": true,
 
-    // Display line endings in the status bar
+    // Display line endings in the status bar.
     "show_line_endings": true,
 
     // Set to true to close windows as soon as the last file is closed, unless
@@ -87,10 +87,10 @@
     // you'll need to place this line in your user settings to override it.
     "show_full_path": true,
 
-    // ???
+    // doc ???
     "enable_telemetry": false,
 
-    // ???
+    // doc ???
     "submit_usage": false,
 
     /////////////
@@ -123,7 +123,7 @@
     "jsdocs_extend_double_slash": false,
     "docblockr.extend_double_slash": false,
 
-    // Add a '[function_name description]' for the function block
+    // Add a '[function_name description]' for the function block.
     "jsdocs_function_description": false,
     "docblockr.function_description": false,
 

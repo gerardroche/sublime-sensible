@@ -123,16 +123,13 @@
     ///////////////
 
     // Add a '[function_name description]' for the function block.
-    "jsdocs_function_description": false,
-    "docblockr.function_description": false,
+    "docblockr.function_description": false, "jsdocs_function_description": false,
 
     // Add a '[description]' placeholder for the return tag?
-    "jsdocs_return_description": false,
-    "docblockr.return_description": false,
+    "docblockr.return_description": false, "jsdocs_return_description": false,
 
     // Add a '[description]' placeholder for the param tag?
-    "jsdocs_param_description": false,
-    "docblockr.param_description": false,
+    "docblockr.param_description": false, "jsdocs_param_description": false,
 
     // Whether there should be blank lines added between the description line,
     // and between tags of different types.
@@ -159,16 +156,13 @@
     //  * @param  {Number} bar
     //  * @return {[Type]}
     //  */
-    "jsdocs_spacer_between_sections": true,
-    "docblockr.spacer_between_sections": true,
+    "docblockr.spacer_between_sections": true, "jsdocs_spacer_between_sections": true,
 
     // If set to true, primitives such as "Number" and "String" will be
     // documented as "number" and "string".
-    "jsdocs_lower_case_primitives": true,
-    "docblockr.lower_case_primitives": true,
+    "docblockr.lower_case_primitives": true, "jsdocs_lower_case_primitives": true,
 
     // If set to true, primitives such as "boolean" and "integer" will be
     // shortened to "bool" and "int".
-    "jsdocs_short_primitives": true,
-    "docblockr.short_primitives": true
+    "docblockr.short_primitives": true, "jsdocs_short_primitives": true
 }

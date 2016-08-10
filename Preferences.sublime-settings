@@ -21,7 +21,7 @@
 
     // Set to a value other than 0 to force wrapping at that column rather than
     // the window width.
-    "wrap_width": 81,
+    "wrap_width": 80,
 
     // Word list to use for spell checking.
     "dictionary": "Packages/Language - English/en_GB.dic",

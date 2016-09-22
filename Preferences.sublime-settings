@@ -91,6 +91,9 @@
     // you'll need to place this line in your user settings to override it.
     "show_full_path": true,
 
+    // Enable Sublime Text updates (requires license to disable)
+    "update_check": true,
+
     // doc ???
     "enable_telemetry": false,
 

@@ -16,6 +16,47 @@
                                 }
                             },
                             {
+                                "caption": "-"
+                            },
+                            {
+                                "caption": "Settings – User",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/sensible/Preferences.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Settings – Distraction Free",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/sensible/Distraction Free.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Settings – Side Bar",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/sensible/Side Bar/Side Bar.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Settings – Widget",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/sensible/Preferences.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "Settings – Package Control",
+                                "command": "open_file",
+                                "args": {
+                                    "file": "${packages}/sensible/Package Control/Package Control.sublime-settings"
+                                }
+                            },
+                            {
+                                "caption": "-"
+                            },
+                            {
                                 "caption": "LICENSE",
                                 "command": "open_file",
                                 "args": {

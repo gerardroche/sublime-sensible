@@ -1,4 +1,7 @@
 {
+    // If packages should be automatically upgraded when ST starts
+    "auto_upgrade": true,
+
     // If package install, upgrade and removal info should be submitted to
     // the channel for aggregated statistics
     "submit_usage": false,

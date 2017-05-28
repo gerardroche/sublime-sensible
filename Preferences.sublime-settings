@@ -1,7 +1,4 @@
 {
-    // Spacing between the gutter and the text.
-    "margin": 0,
-
     // Columns in which to display vertical rulers.
     "rulers":
     [

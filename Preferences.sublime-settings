@@ -33,14 +33,6 @@
     // If enabled, will highlight any line with a caret.
     "highlight_line": true,
 
-    // Valid values are "smooth", "phase", "blink" and "solid".
-    "caret_style": "blink",
-
-    // These settings control the size of the caret.
-    "caret_extra_top": 1,
-    "caret_extra_bottom": 1,
-    "caret_extra_width": 1,
-
     // Controls how the indent guides are drawn, valid options are
     // "draw_normal" and "draw_active". draw_active will draw the indent
     // guides containing the caret in a different color.

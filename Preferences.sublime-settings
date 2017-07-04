@@ -23,10 +23,6 @@
     // Word list to use for spell checking.
     "dictionary": "Packages/Language - English/en_GB.dic",
 
-    // Always visualise the viewport on the minimap, as opposed to only showing
-    // it on mouse over.
-    "always_show_minimap_viewport": true,
-
     // If enabled, will highlight any line with a caret.
     "highlight_line": true,
 

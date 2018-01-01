@@ -93,10 +93,10 @@
     // that may override some platform-specific conventions.
     // On OS X, this value is overridden in the platform specific settings, so
     // you'll need to place this line in your user settings to override it.
-    "vintage_ctrl_keys": true,
+    // "vintage_ctrl_keys": true,
 
     // Whether to enter command mode when opening a file.
-    "vintage_start_in_command_mode": true,
+    // "vintage_start_in_command_mode": true,
 
     ////////////////
     // Vintageous //
@@ -104,7 +104,7 @@
 
     // If true, some key bindings prefaced by the CTRL modifier will override
     // default Sublime Text key bindings.
-    "vintageous_use_ctrl_keys": true,
+    // "vintageous_use_ctrl_keys": true,
 
     ///////////////
     // DocBlockr //

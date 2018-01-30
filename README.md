@@ -1,6 +1,6 @@
-# sublime-sensible
+# Sensible
 
-[![Minimum Sublime version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/gerardroche/sublime-sensible.svg?style=flat-square&label=stable)](https://github.com/gerardroche/sublime-sensible/tags) [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-sensible.svg?style=flat-square)](https://github.com/gerardroche/sublime-sensible/stargazers) [![Author](https://img.shields.io/badge/twitter-gerardroche-blue.svg?style=flat-square)](https://twitter.com/gerardroche)
+[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/gerardroche/sublime-sensible.svg?style=flat-square&label=stable)](https://github.com/gerardroche/sublime-sensible/tags) [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-sensible.svg?style=flat-square)](https://github.com/gerardroche/sublime-sensible/stargazers) [![Author](https://img.shields.io/badge/twitter-gerardroche-blue.svg?style=flat-square)](https://twitter.com/gerardroche)
 
 A set of default settings that (hopefully) most of everyone who feel the native default settings don't meet their needs can agree on.
 
@@ -11,14 +11,17 @@ A set of default settings that (hopefully) most of everyone who feel the native 
 
 Inspired by [vim-sensible](https://github.com/tpope/vim-sensible).
 
+**This plugin was renamed Sensible (previously known as sensible).**
+
 ## INSTALLATION
 
-1. Close Sublime Text.
-2. Download or clone this repository to a directory named **`sensible`** in the Sublime Text Packages directory for your platform:
-    * Linux: `git clone https://github.com/gerardroche/sublime-sensible.git ~/.config/sublime-text-3/Packages/sensible`
-    * OS X: `git clone https://github.com/gerardroche/sublime-sensible.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sensible`
-    * Windows: `git clone https://github.com/gerardroche/sublime-sensible.git %APPDATA%\Sublime/ Text/ 3/Packages/sensible`
-3. Done!
+### Manual installation
+
+Close Sublime Text, then download or clone this repository to a directory named `Sensible` in the Sublime Text Packages directory for your platform:
+
+* Linux: `git clone https://github.com/gerardroche/sublime-sensible.git ~/.config/sublime-text-3/Packages/Sensible`
+* OSX: `git clone https://github.com/gerardroche/sublime-sensible.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Sensible`
+* Windows: `git clone https://github.com/gerardroche/sublime-sensible.git %APPDATA%\Sublime/ Text/ 3/Packages/Sensible`
 
 ## LICENSE
 

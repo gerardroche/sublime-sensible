@@ -12,7 +12,7 @@
                                 "caption": "README",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/README.md"
+                                    "file": "${packages}/Sensible/README.md"
                                 }
                             },
                             {
@@ -22,35 +22,35 @@
                                 "caption": "Settings – User",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/Preferences.sublime-settings"
+                                    "file": "${packages}/Sensible/Preferences.sublime-settings"
                                 }
                             },
                             {
                                 "caption": "Settings – Distraction Free",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/Distraction Free.sublime-settings"
+                                    "file": "${packages}/Sensible/Distraction Free.sublime-settings"
                                 }
                             },
                             {
                                 "caption": "Settings – Side Bar",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/Side Bar/Side Bar.sublime-settings"
+                                    "file": "${packages}/Sensible/Side Bar/Side Bar.sublime-settings"
                                 }
                             },
                             {
                                 "caption": "Settings – Widget",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/Preferences.sublime-settings"
+                                    "file": "${packages}/Sensible/Preferences.sublime-settings"
                                 }
                             },
                             {
                                 "caption": "Settings – Package Control",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/Package Control/Package Control.sublime-settings"
+                                    "file": "${packages}/Sensible/Package Control/Package Control.sublime-settings"
                                 }
                             },
                             {
@@ -60,7 +60,7 @@
                                 "caption": "LICENSE",
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/sensible/LICENSE"
+                                    "file": "${packages}/Sensible/LICENSE"
                                 }
                             }
                         ]

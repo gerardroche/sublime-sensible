@@ -1,6 +1,6 @@
 # Sensible
 
-[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Stable Version](https://img.shields.io/github/tag/gerardroche/sublime-sensible.svg?style=flat-square&label=stable)](https://github.com/gerardroche/sublime-sensible/tags) [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-sensible.svg?style=flat-square)](https://github.com/gerardroche/sublime-sensible/stargazers)
+[![Minimum Sublime Version](https://img.shields.io/badge/sublime-%3E%3D%203.0-brightgreen.svg?style=flat-square)](https://sublimetext.com) [![Latest Version](https://img.shields.io/github/tag/gerardroche/sublime-sensible.svg?style=flat-square&label=version)](https://github.com/gerardroche/sublime-sensible/tags) [![GitHub stars](https://img.shields.io/github/stars/gerardroche/sublime-sensible.svg?style=flat-square)](https://github.com/gerardroche/sublime-sensible/stargazers)
 
 A set of default settings that (hopefully) most of everyone who feel the native default settings don't meet their needs can agree on.
 

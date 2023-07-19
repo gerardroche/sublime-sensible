@@ -59,12 +59,6 @@
     // Allows tabs to scroll left and right, instead of simply shrinking.
     "enable_tab_scrolling": false,
 
-    // Display file encoding in the status bar.
-    "show_encoding": true,
-
-    // Display line endings in the status bar.
-    "show_line_endings": true,
-
     // Set to true to close windows as soon as the last file is closed, unless
     // there's a folder open within the window.
     // On OS X, this value is overridden in the platform specific settings, so
@@ -79,10 +73,7 @@
     // Enable Sublime Text updates (requires license to disable)
     "update_check": true,
 
-    // doc ???
     "enable_telemetry": false,
-
-    // doc ???
     "submit_usage": false,
 
     /////////////
